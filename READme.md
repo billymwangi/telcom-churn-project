@@ -6,7 +6,7 @@ SyriaTel is a leading provider of telecommunications services in the United Stat
 
 ## Problem Statement
 
-In recent years, the company has been facing an issue with customer churn. Churn is the rate at which customers cancel their service with a company. The company's churn rate has been increasing over the past few years. This is a major concern for the company because it is losing revenue and customers.
+In recent years, the company has been facing an issue with customer churn. Churn is the rate at which customers cancel their service with a company. The company's churn rate has been increasing over the past few years. This is a major concern for the company because it is losing revenue and customers. The company would like to predict customers who are likely to churn. This will help the company to identify customers who are at risk of leaving and take steps to prevent them from leaving.
 
 ## Objectives
 
@@ -73,5 +73,5 @@ The goal of this project is to:-
 ## Future work
 
 - Using more advanced machine learning algorithms to see if one predict customer churn better.
-- Using more data: The more data that is used to train the model, the more accurate the predictions will be. 
-- 
+- Using more data: The more data that is used to train the model, the more accurate the predictions will be.
+-
