@@ -61,8 +61,11 @@ The goal of this project is to:-
 ## Conclusion
 
 - The variables that most predict customer churn include; total day minutes, customer service calls, international plan, total international calls and total evening minutes.
+- Considering the F1 score and AUC, it appears that the hyperparameter tuned random forest model performs better than the first model. However, it's important to note that these differences are relatively small, the margin of improvement might not be significant enough to warrant choosing one model over the other. Other factors, such as computational resources and model complexity, should also be considered when making a final decision.
 
 ## Recommendations
+
+The company should do the following things:-
 
 - Offer customers a discount on their monthly bill if they use less minutes during peak hours. This could help to reduce the number of total day minutes that customers use, which could in turn reduce the number of customers who churn.
 - Create a customer service portal where customers can easily find answers to their questions. This could help to reduce the number of customer service calls that customers make, which could in turn reduce the number of customers who churn.
@@ -74,4 +77,3 @@ The goal of this project is to:-
 
 - Using more advanced machine learning algorithms to see if one predict customer churn better.
 - Using more data: The more data that is used to train the model, the more accurate the predictions will be.
--
